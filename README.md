@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Trendyol iOS App.**
 
-- 🚀 At night, I put on my mask and growing the [Infumar](https://infumar.com)
+- 🚀 At night, I put on my mask and I work for [Infumar](https://infumar.com) to grow.
 
 - 🌱 I’m currently learning **Influencer Marketing, Advertisements, Monetizing, SwiftUI, VueJs**
 
