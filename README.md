@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Swift, iOS, VueJs, Influencer Marketing**
 
-- 📫 How to reach me **aniltaskiran@infumar.com**
+- 📫 How to reach me **anil.taskiran@infumar.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
