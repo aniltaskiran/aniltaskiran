@@ -25,11 +25,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-<br><p align="left"> <img src="https://komarev.com/ghpvc/?username=aniltaskiran&label=Profile%20views&color=0e75b6&style=flat" alt="aniltaskiran" /> </p>
-
-<p align="left"> <a href="https://twitter.com/aniiltaskiran" target="blank"><img src="https://img.shields.io/twitter/follow/aniiltaskiran?logo=twitter&style=for-the-badge" alt="aniiltaskiran" /></a> </p>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aniiltaskiran" target="blank"><img align="center" src="Assets/twitter.svg" alt="aniiltaskiran" height="30" width="40" /></a>
@@ -37,6 +32,8 @@
 <a href="https://www.youtube.com/channel/UCz0jaWqwcQo_DEEtsiMhtrg" target="blank"><img align="center" src="Assets/youtube.svg" alt="aniltaskiran" height="30" width="40" /></a><br>
 </p>
 
-<br><img align="left" src="https://github-readme-stats.vercel.app/api?username=aniltaskiran&show_icons=true&locale=en" alt="aniltaskiran" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aniltaskiran&" alt="aniltaskiran" />
+<br><p align="left"> <img src="https://komarev.com/ghpvc/?username=aniltaskiran&label=Profile%20views&color=0e75b6&style=flat" alt="aniltaskiran" /> </p>
+<p align="center"> <a href="https://twitter.com/aniiltaskiran" target="blank"><img src="https://img.shields.io/twitter/follow/aniiltaskiran?logo=twitter&style=for-the-badge" alt="aniiltaskiran" /></a> </p>
+
+<br><img align="center" src="https://github-readme-stats.vercel.app/api?username=aniltaskiran&show_icons=true&locale=en" alt="aniltaskiran" />
 
