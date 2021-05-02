@@ -34,6 +34,5 @@
 
 <br><p align="left"> <img src="https://komarev.com/ghpvc/?username=aniltaskiran&label=Profile%20views&color=0e75b6&style=flat" alt="aniltaskiran" /> </p>
 <p align="center"> <a href="https://twitter.com/aniiltaskiran" target="blank"><img src="https://img.shields.io/twitter/follow/aniiltaskiran?logo=twitter&style=for-the-badge" alt="aniiltaskiran" /></a> </p>
-
-<br><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aniltaskiran&show_icons=true&locale=en" alt="aniltaskiran" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aniltaskiran&show_icons=true&locale=en" alt="aniltaskiran" /></p>
 
