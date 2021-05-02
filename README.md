@@ -25,8 +25,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aniiltaskiran" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aniiltaskiran" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aniltaskiran" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aniltaskiran" height="30" width="40" /></a>
+<a href="https://twitter.com/aniiltaskiran" target="blank"><img align="center" src="Assets/twitter.svg" alt="aniiltaskiran" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aniltaskiran" target="blank"><img align="center" src="Assets/linkedin.svg" alt="aniltaskiran" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCz0jaWqwcQo_DEEtsiMhtrg" target="blank"><img align="center" src="Assets/youtube.svg" alt="aniltaskiran" height="30" width="40" /></a>
 </p>
 
 
