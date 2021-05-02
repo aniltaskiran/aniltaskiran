@@ -16,6 +16,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Property Wrapper on Production iOS E-commerce App How did we find solutions to Decoding…](https://aniltaskiran.medium.com/using-property-wrapper-on-production-ios-e-commerce-app-how-did-we-find-solutions-to-decoding-d2cdf13d99cd?source=rss-1ba92a98028------2)
+- [Property Wrapper’ı Trendyol Kodunda nasıl kullandık? Decoding Hatalarına nasıl çözüm Bulduk?](https://medium.com/trendyol-tech/property-wrapper%C4%B1-trendyol-kodunda-nas%C4%B1l-kulland%C4%B1k-decoding-hatalar%C4%B1na-nas%C4%B1l-%C3%A7%C3%B6z%C3%BCm-bulduk-9e99f47146f4?source=rss-1ba92a98028------2)
+- [The effect of bots on Automation](https://medium.com/trendyol-tech/the-effect-of-bots-on-automation-fb3135908632?source=rss-1ba92a98028------2)
+- [Nearby Interaction iOS 14 WWDC20](https://medium.com/flawless-app-stories/nearby-interaction-ios-14-wwdc20-e4ad9bcb3826?source=rss-1ba92a98028------2)
+- [What’s New with Location and Bluetooth APIs on iOS 13](https://medium.com/flawless-app-stories/whats-new-with-location-and-bluetooth-apis-on-ios-13-a6d8497ffa39?source=rss-1ba92a98028------2)
+- [Teach Emojis to Machine on iOS with Artificial Neural Networks](https://medium.com/trendyol-tech/teach-emojis-to-machine-on-ios-with-artificial-neural-networks-83acf58e3843?source=rss-1ba92a98028------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
