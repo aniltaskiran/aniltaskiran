@@ -3,16 +3,15 @@
 
 - 🔭 I’m currently working on **Trendyol iOS App.**
 
-- 🚀 At night, I put on my mask and I work for [Infumar](https://infumar.com) to grow.
+- 🍸 At night, I put on my mask and I'm making a cocktail. 
 
-- 🌱 I’m currently learning **Influencer Marketing, Advertisements, Monetizing, SwiftUI, VueJs**
-
+- 🤿 I'm a Open Water Diver aka Scuba Diver.
 
 - 📝 I regularly write articles on [https://medium.com/@aniltaskiran](https://medium.com/@aniltaskiran)
 
-- 💬 Ask me about **Swift, iOS, VueJs, Influencer Marketing**
+- 💬 Ask me about **Swift, iOS, Coctail, Scuba Diving**
 
-- 📫 How to reach me **anil.taskiran@infumar.com**
+- 📫 How to reach me **anil.taskiran@trendyol.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
